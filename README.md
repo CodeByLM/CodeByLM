@@ -11,11 +11,3 @@
   </tr>
 </p>
 
-<p align="center">
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <a href="https://github.com/louis-dnb">
-      <img src="https://github-readme-stats-46bn.vercel.app?user=louis-dnb&theme=tokyonight_duo&hide_border=true&ring=000000&currStreakLabel=5ae87c&sideNums=5ae87c&dates=979797&sideLabels=5ae87c&currStreakNum=5ae87c&border=DD2727&stroke=00000000&background=00000000&fire=FF7600" />
-    </td>
-  </tr>
-</p>
